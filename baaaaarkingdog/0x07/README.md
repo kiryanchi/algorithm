@@ -1,4 +1,4 @@
-# 0x05 덱
+# 0x07 덱
 
 > [바킹독의 실전 알고리즘](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) 영상을 보고 공부한 내용입니다.
 
@@ -12,8 +12,6 @@
 ## [Deque](./deque_test.cpp)
 
 ## [BOJ 10866: Deque](./boj_10866.cpp)
-
-## [BOJ 2164: 카드2](./boj_2164.cpp)
 
 ## [BOJ 1021: 회전하는 큐](./boj_1021.cpp)
 

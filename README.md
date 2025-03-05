@@ -4,6 +4,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/kiryanchi/algorithm?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/kiryanchi/algorithm?style=social)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi)](https://solved.ac/kiryanchi/)
+
 ## 📌 소개
 
 이 저장소는 알고리즘 문제 풀이를 기록하는 공간입니다.  

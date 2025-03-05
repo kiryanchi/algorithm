@@ -1,9 +1,5 @@
 # 🧑‍💻 Algorithm
 
-![GitHub repo size](https://img.shields.io/github/repo-size/kiryanchi/algorithm)
-![GitHub stars](https://img.shields.io/github/stars/kiryanchi/algorithm?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kiryanchi/algorithm?style=social)
-
 <p align="center">
     <a href="https://solved.ac/kiryanchi">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi" alt="Solved.ac Profile">
@@ -13,6 +9,7 @@
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language C++">
     <img src="https://img.shields.io/badge/Language-Java-blue" alt="Language Java">
 </p>
+
 ## 📌 소개
 
 이 저장소는 알고리즘 문제 풀이를 기록하는 공간입니다.  

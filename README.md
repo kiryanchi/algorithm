@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/kiryanchi/algorithm?style=social)
 
 <center>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi)](https://solved.ac/kiryanchi/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi" alt="Solved.ac Profile">
 </center>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language C++">

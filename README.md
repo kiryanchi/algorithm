@@ -4,10 +4,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/kiryanchi/algorithm?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/kiryanchi/algorithm?style=social)
 
-<center>
-</center>
 <p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi" alt="Solved.ac Profile">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language C++">
     <img src="https://img.shields.io/badge/Language-Java-blue" alt="Language Java">
 </p>

@@ -4,13 +4,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/kiryanchi/algorithm?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/kiryanchi/algorithm?style=social)
 
-중앙 정렬
-
-<p align="center">
+<center>
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiryanchi)](https://solved.ac/kiryanchi/)
+</center>
+<p align="center">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language C++">
     <img src="https://img.shields.io/badge/Language-Java-blue" alt="Language Java">
-
 </p>
 ## 📌 소개
 

@@ -2,3 +2,4 @@ main.cpp
 cmake-build-release
 *.out
 main
+input.txt

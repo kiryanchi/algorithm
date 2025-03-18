@@ -389,3 +389,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,pycharm,pythonvanilla,python,windows,linux
 /.vscode
+
+.Main.java
+.Main.class
+.Main

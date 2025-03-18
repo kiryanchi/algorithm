@@ -391,5 +391,5 @@ $RECYCLE.BIN/
 /.vscode
 
 .Main.java
-.Main.class
-.Main
+Main.class
+Main

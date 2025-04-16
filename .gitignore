@@ -394,3 +394,5 @@ $RECYCLE.BIN/
 Main*.class
 Main
 main
+/main.cpp
+input.txt
